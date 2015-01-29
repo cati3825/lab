@@ -1,2 +1,4 @@
 Cameron Tierney
-Giit assignment
+Git assignment
+
+Partner: Brian Gaydon
